@@ -7,3 +7,4 @@ mpv/tmp
 
 # IDE
 .idea
+.DS_Store
